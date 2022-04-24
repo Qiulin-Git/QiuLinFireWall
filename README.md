@@ -7,6 +7,7 @@
 
 使用说明：
 1、一键禁用国外IP访问， 点击【启用禁止国外IP访问规则】即可
+
 ![image](https://user-images.githubusercontent.com/53858121/164968207-6433cfb5-4455-4454-b5a1-bea2f8d3b13b.png)
 
 2、自定义IP黑名单：
